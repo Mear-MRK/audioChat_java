@@ -7,7 +7,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 import javax.sound.sampled.LineUnavailableException;
 
-public class WalkieTalkie {
+public class AudioChatApp {
 
 	private static Queue<DatagramPacket> receivedPackets;
 	private static Queue<DatagramPacket> recordedPackets;
