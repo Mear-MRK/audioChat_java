@@ -1,6 +1,6 @@
 ### Audio Chat App
 
-This is a peer-to-peer (P2P) audio chat application written in Java. It allows two users to have a real-time audio conversation over a network. The application is designed to be simple and easy to use, while still providing good audio quality.
+This is a peer-to-peer (P2P) audio chat command-line application written in Java. It allows two users to have a real-time audio conversation over a network. The application is designed to be simple and easy to use, while still providing good audio quality.
 
 #### Features
 
